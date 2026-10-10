@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "nome": "Pyetro",
+    "apelido": "DEVlogus",
+    "ra": "",
+    "semestre": "2026.2",
+    "github": ""
+  },
+  "activities": [
+    {
+      "id": "seed-2",
+      "numero": "00",
+      "titulo": "Noites Cabulosas Demo",
+      "categoria": "Atividade",
+      "techTags": ["github-pages", "tutorial"],
+      "data": "2026-10-10",
+      "resumo": "Demo do jogo das Noites Cabulosas. A invasão do lampião à casa do coronel.",
+      "conteudo": "A demo conta com objetivo, falas regionalistas e os capangas do lampião como principais inimigos, contando com um estilo de game 2D no estilo GBA feito 100% em código. Mais informações no readme.",
+      "link": "https://github.com/DEVLogus-byte/Noites-cabulosas-no-nordeste",
+      "criadoEm": 2
+    }
+  ]
+}

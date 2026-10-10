@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "nome": "Pyetro",
+    "apelido": "DEVlogus",
+    "ra": "",
+    "semestre": "2026.2",
+    "github": ""
+  },
+  "activities": [
+    {
+      "id": "seed-1",
+      "numero": "00",
+      "titulo": "Resta-21",
+      "categoria": "Atividade",
+      "techTags": ["github-pages", "tutorial"],
+      "data": "2026-10-02",
+      "resumo": "Resta-21 com modo duelo utilizando de um bot para o crupiê.",
+      "conteudo": "A atualização feita por mim se refere a adição de um modo de luta contra bot em campanha. O nome interno é chalenge, porém preferi chamarde duelo na start screen",
+      "link": "https://github.com/DEVLogus-byte/Blackjack-Resta-21_em_godot/tree/main",
+      "criadoEm": 1
+    }
+  ]
+}
