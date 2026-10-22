@@ -18,21 +18,6 @@
       "conteudo": "A atualização feita por mim se refere a adição de um modo de luta contra bot em campanha. O nome interno é chalenge, porém preferi chamarde duelo na start screen",
       "link": "https://github.com/DEVLogus-byte/Blackjack-Resta-21_em_godot/tree/main",
       "criadoEm": 1
-    },
-    {
-      "titulo": "Noites Cabulosas (Demo)",
-      "numero": "02",
-      "categoria": "Análise de Jogo",
-      "data": "2026-10-22",
-      "techTags": [
-        "Godot"
-      ],
-      "resumo": "O jogo se passa em uma mansão tomada pelos capangas do lampião.",
-      "videoUrl": "",
-      "conteudo": "Este é o link para o Itch.io: https://devlogus.itch.io/noites-cabulosas-demo",
-      "link": "https://github.com/DEVLogus-byte/Noites-cabulosas-no-nordeste",
-      "id": "act-1792697009912-225",
-      "criadoEm": 1792697009912
     }
   ]
 }
