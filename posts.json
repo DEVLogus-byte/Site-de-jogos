@@ -10,31 +10,29 @@
     {
       "id": "seed-1",
       "numero": "00",
-      "titulo": "Bem-vindo ao seu devlog",
-      "categoria": "Outro",
-      "techTags": [
-        "tutorial"
-      ],
-      "data": "2026-10-10",
-      "resumo": "Este é um exemplo de postagem — edite ou exclua quando quiser.",
-      "conteudo": "Este devlog guarda as atividades da disciplina de **Jogos Digitais**.\n\nUse o botão \"Nova atividade\" para registrar cada entrega: título, categoria, tecnologias usadas e o que você aprendeu.\n\nAlgumas dicas de formatação do conteúdo:\n- use **negrito** e *itálico*\n- use `código inline` para termos técnicos\n- blocos de três crases criam blocos de código\n\nClique no ícone de engrenagem no topo para editar seu nome, matrícula e semestre. Quando terminar de explorar, pode excluir esta atividade de exemplo.",
-      "link": "",
-      "criadoEm": 1791655025298
+      "titulo": "Resta-21",
+      "categoria": "Atividade",
+      "techTags": ["github-pages", "tutorial"],
+      "data": "2026-10-02",
+      "resumo": "Resta-21 com modo duelo utilizando de um bot para o crupiê.",
+      "conteudo": "A atualização feita por mim se refere a adição de um modo de luta contra bot em campanha. O nome interno é chalenge, porém preferi chamarde duelo na start screen",
+      "link": "https://github.com/DEVLogus-byte/Blackjack-Resta-21_em_godot/tree/main",
+      "criadoEm": 1
     },
     {
-      "titulo": "Demo de Noites cabulosas",
+      "titulo": "Noites Cabulosas (Demo)",
       "numero": "02",
       "categoria": "Análise de Jogo",
-      "data": "2026-10-10",
+      "data": "2026-10-22",
       "techTags": [
-        "Feito em Godot"
+        "Godot"
       ],
-      "resumo": "Jogo com visão de cima, no estilo de GBA",
+      "resumo": "O jogo se passa em uma mansão tomada pelos capangas do lampião.",
       "videoUrl": "",
-      "conteudo": "Demo do jogo das Noites Cabulosas. A invasão do lampião à casa do coronel.\",\n      \"conteudo\": \"A demo conta com objetivo, falas regionalistas e os capangas do lampião como principais inimigos, contando com um estilo de game 2D no estilo GBA feito 100% em código. Mais informações no readme.",
+      "conteudo": "Este é o link para o Itch.io: https://devlogus.itch.io/noites-cabulosas-demo",
       "link": "https://github.com/DEVLogus-byte/Noites-cabulosas-no-nordeste",
-      "id": "act-1791655108061-152",
-      "criadoEm": 1791655108061
+      "id": "act-1792697009912-225",
+      "criadoEm": 1792697009912
     }
   ]
 }
